@@ -1,34 +1,39 @@
 **Online Code Editor (HTML, CSS, JavaScript)**
 ----------------------------------------------
 
-A lightweight online code editor built with CodeMirror, supporting HTML, CSS, and JavaScript. It allows you to write, test, and preview your code instantly in the browser. Perfect for experimenting, practicing, or quickly prototyping web pages.
+A lightweight browser-based code editor built with **HTML, CSS, JavaScript, and CodeMirror**.  
+It allows users to write and preview **HTML, CSS, and JavaScript** in real time.  
+Includes an integrated output preview and a console for debugging.
 
-**Features:**
+##Features:
 
-\- Syntax-highlighted editors for HTML, CSS, and JavaScript (powered by CodeMirror).
+- Syntax-highlighted editors for HTML, CSS, and JavaScript (powered by CodeMirror).
 
-\-Live Preview: Instantly renders your code in an iframe.
+-Live Preview: Instantly renders your code in an iframe.
 
-\-Auto Save: Stores code in localStorage so your work survives page refresh.
+-Auto Save: Stores code in localStorage so your work survives page refresh.
 
-\-Clear Button: Reset all editors with one click.
+-Clear Button: Reset all editors with one click.
 
-\-Download Button: Export your project as a .html file.
+-Download Button: Export your project as a .html file.
 
-\-Built-in Console: View JavaScript output directly on the page.
+-Built-in Console: View JavaScript output directly on the page.
 
-**Tech Stack:**
+
+##Tech Stack:
 
 Frontend: HTML, CSS, JavaScript
 
 Editor: CodeMirror
 
-Screenshots
+
+##Screenshots
 -----------
 
-![Alt text] https://github.com/Krypto-Knight-05/Code-Editor/blob/4b16c82b057e8c045d514410824f3b53fd78e721/pictures/ss
+![Alt text](pictures/ss.png)
 
-**Installation & Setup**
+
+##Installation & Setup
 ```bash
 Clone the repository:
 
@@ -39,24 +44,27 @@ Navigate into the project folder:
 
 cd online-code-editor
 ```
+```bash
 Open index.html in your browser.
 
 (No extra setup required)
+```
 
-**Usage**
+##Usage
 
-\-Write HTML, CSS, and JavaScript code in their respective editors.
+-Write HTML, CSS, and JavaScript code in their respective editors.
 
-\-The output automatically updates in the preview iframe.
+-The output automatically updates in the preview iframe.
 
-\-Use Clear to reset editors.
+-Use Clear to reset editors.
 
-\-Use Download to save code as a .html file.
+-Use Download to save code as a .html file.
 
-**Future Enhancements**
 
-\-Dark/Light mode toggle.
+##Future Enhancements
 
-\-Shareable links to code snippets.
+-Dark/Light mode toggle.
 
-\-Export project as .zip (HTML, CSS, JS separately).
+-Shareable links to code snippets.
+
+-Export project as .zip (HTML, CSS, JS separately).
