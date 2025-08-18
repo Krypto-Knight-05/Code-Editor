@@ -5,35 +5,40 @@ A lightweight browser-based code editor built with **HTML, CSS, JavaScript, and 
 It allows users to write and preview **HTML, CSS, and JavaScript** in real time.  
 Includes an integrated output preview and a console for debugging.
 
-##Features:
+
+
+## Features:
 
 - Syntax-highlighted editors for HTML, CSS, and JavaScript (powered by CodeMirror).
 
--Live Preview: Instantly renders your code in an iframe.
+- Live Preview: Instantly renders your code in an iframe.
 
--Auto Save: Stores code in localStorage so your work survives page refresh.
+- Auto Save: Stores code in localStorage so your work survives page refresh.
 
--Clear Button: Reset all editors with one click.
+- Clear Button: Reset all editors with one click.
 
--Download Button: Export your project as a .html file.
+- Download Button: Export your project as a .html file.
 
--Built-in Console: View JavaScript output directly on the page.
+- Built-in Console: View JavaScript output directly on the page.
 
 
-##Tech Stack:
+
+## Tech Stack:
 
 Frontend: HTML, CSS, JavaScript
 
 Editor: CodeMirror
 
 
-##Screenshots
+
+## Screenshots
 -----------
 
-![Alt text](pictures/ss.png)
+![Editor Screenshot](https://github.com/Krypto-Knight-05/Code-Editor/blob/4b16c82b057e8c045d514410824f3b53fd78e721/pictures/ss.png)
 
 
-##Installation & Setup
+
+## Installation & Setup
 ```bash
 Clone the repository:
 
@@ -50,21 +55,23 @@ Open index.html in your browser.
 (No extra setup required)
 ```
 
-##Usage
 
--Write HTML, CSS, and JavaScript code in their respective editors.
+## Usage
 
--The output automatically updates in the preview iframe.
+- Write HTML, CSS, and JavaScript code in their respective editors.
 
--Use Clear to reset editors.
+- The output automatically updates in the preview iframe.
 
--Use Download to save code as a .html file.
+- Use Clear to reset editors.
+
+- Use Download to save code as a .html file.
 
 
-##Future Enhancements
 
--Dark/Light mode toggle.
+## Future Enhancements
 
--Shareable links to code snippets.
+- Dark/Light mode toggle.
 
--Export project as .zip (HTML, CSS, JS separately).
+- Shareable links to code snippets.
+
+- Export project as .zip (HTML, CSS, JS separately).
