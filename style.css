@@ -1,0 +1,49 @@
+#edit-panel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 350px;
+    background-color: #f7f7f7;
+    padding-bottom: 25px;
+    
+}
+
+#edit-panel > div{
+    display: flex;
+    flex: 1; /*means all items in flex container grow shrink share space equally */
+    min-width: 0; /*allows items to shrink*/
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 32%;
+}
+
+#edit-panel > div > div:first-child{
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#buttons{
+    padding: 7px;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 7px solid white;
+}
+
+textarea{
+    width: 100%;
+    border: 2px solid black;
+    height: 100%;
+}
+
+.CodeMirror{
+    height: 100%;
+    width: 100%;
+}
+
+iframe{
+    height: 300px;
+    width: 100%;
+}
