@@ -1,5 +1,4 @@
 # Online Code Editor (HTML, CSS, JavaScript)
-----------------------------------------------
 
 A lightweight browser-based code editor built with **HTML, CSS, JavaScript, and CodeMirror**.  
 It allows users to write and preview **HTML, CSS, and JavaScript** in real time.  
