@@ -1,4 +1,4 @@
-**Online Code Editor (HTML, CSS, JavaScript)**
+# Online Code Editor (HTML, CSS, JavaScript)
 ----------------------------------------------
 
 A lightweight browser-based code editor built with **HTML, CSS, JavaScript, and CodeMirror**.  
@@ -34,7 +34,7 @@ Editor: CodeMirror
 ## Screenshots
 -----------
 
-![Editor Screenshot](https://github.com/Krypto-Knight-05/Code-Editor/blob/4b16c82b057e8c045d514410824f3b53fd78e721/pictures/ss.png)
+![Editor Screenshot](https://github.com/Krypto-Knight-05/Code-Editor/blob/main/pictures/ss)
 
 
 
