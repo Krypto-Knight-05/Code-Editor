@@ -4,7 +4,7 @@ A lightweight browser-based code editor built with **HTML, CSS, JavaScript, and 
 It allows users to write and preview **HTML, CSS, and JavaScript** in real time.  
 Includes an integrated output preview and a console for debugging.
 
-
+[![View Live Demo](https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://code-editor-taupe.vercel.app/)
 
 ## Features:
 
